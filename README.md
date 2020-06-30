@@ -136,3 +136,11 @@ https://github.com/QueenieCplusplus/CCNP_Routing
 不分級的網域內部路由，非常重要！
 關於路由器，有分 interior 和 exterior，CIDR 能解決內部路由網址不足或是過多的問題。
 
+建議：
+
+(1) 必須使用 C 級的 IP 位址。
+
+(2) 必須使用連續性的 IP 位址。
+
+(3) 網路位址一定是在 2 的 n 次方之內。
+
