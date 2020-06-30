@@ -129,3 +129,6 @@ IP 位址是由網路位置和主機位置組合而成的 32 位元位址。
 https://github.com/QueenieCplusplus/CCNP_Routing
 
 
+# CIDR
+
+ 已經被 IPv6 方式取代。
