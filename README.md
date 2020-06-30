@@ -133,3 +133,5 @@ https://github.com/QueenieCplusplus/CCNP_Routing
 
 不分級的網域內部路由，非常重要！
 關於路由器，有分 interior 和 exterior，CIDR 能解決內部路由網址不足的問題。
+因為大部分企業只能拿到 C 級的網路位址，即 192.168.3.0/8 個位址。 2 ^ 8 - 2 = 254 台主機！
+
