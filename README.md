@@ -148,3 +148,5 @@ https://github.com/QueenieCplusplus/CCNP_Routing
 
 (4）同一家 ISP。（連接單一 ）
 
+https://zh.wikipedia.org/wiki/无类别域间路由
+
