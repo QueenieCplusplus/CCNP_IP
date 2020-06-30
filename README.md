@@ -21,17 +21,17 @@ IP 位址是由網路位置和主機位置組合而成的 32 位元位址。
       A class
       
       
-       Network          Host Address
+       Network          Host Address = 16,777,216
       /       \  /                           \
      +---------+---------+---------+----------+
-     |   8bits |            32 bits           |
+     |   8bits |            24 bits           |
      +---------+---------+---------+----------+
      
      
      
       B class
       
-            Network            Host Address
+            Network            Host Address = 65536 
       /                 \ /                  \
      +---------+---------+---------+----------+
      |   8bits |   8bits |        16 bits     |
@@ -41,7 +41,7 @@ IP 位址是由網路位置和主機位置組合而成的 32 位元位址。
      
       C class
       
-                  Network              Hosts
+                  Network              Hosts = 256
       /                           \ /        \
      +---------+---------+---------+----------+
      |   8bits |   8bits |   8bits |   8bits  |
