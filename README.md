@@ -131,4 +131,4 @@ https://github.com/QueenieCplusplus/CCNP_Routing
 
 # CIDR
 
- 已經被 IPv6 方式取代。
+
