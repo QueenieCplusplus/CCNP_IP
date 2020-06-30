@@ -133,6 +133,8 @@ https://github.com/QueenieCplusplus/CCNP_Routing
 
 # CIDR
 
+(僅有 EIGRP 和 OSPF 支援)
+
 不分級的網域內部路由，非常重要！
 關於路由器，有分 interior 和 exterior，CIDR 能解決內部路由網址不足或是過多的問題。
 
