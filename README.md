@@ -144,3 +144,5 @@ https://github.com/QueenieCplusplus/CCNP_Routing
 
 (3) 網路位址一定是在 2 的 n 次方之內。
 
+(4）同一家 ISP。（連接單一 ）
+
