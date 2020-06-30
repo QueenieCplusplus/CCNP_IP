@@ -131,7 +131,7 @@ IP 位址是由網路位置和主機位置組合而成的 32 位元位址。
 https://github.com/QueenieCplusplus/CCNP_Routing
 
 
-# CIDR
+# CIDR ＆ Supernet
 
 (僅有 EIGRP 和 OSPF 支援)
 
