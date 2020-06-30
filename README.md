@@ -94,6 +94,8 @@ IP 位址是由網路位置和主機位置組合而成的 32 位元位址。
 
 # VLSM
 
-(EIGRP 適用)
+(OSPF 適用)
+
+https://github.com/QueenieCplusplus/CCNP_Routing
 
 
